@@ -1,6 +1,6 @@
 {
   "name": "polymer-iron-elements",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "google polymer iron elements used inside dcache-view",
   "main": "polymer-iron-elements.html",
   "repository": {
