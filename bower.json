@@ -5,7 +5,7 @@
   "main": "polymer-iron-elements.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dcache/polymer-iron-elements.git"
+    "url": "git://github.com/dCache/polymer-iron-elements.git"
   },
   "dependencies": {
     "iron-a11y-keys": "PolymerElements/iron-a11y-keys#2.0.0",
